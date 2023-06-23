@@ -1,0 +1,34 @@
+cd path
+cd C:\Users\User\Documents\IIUC\6th_Software Engineering Lab\PROJECT\social_book
+dir
+cls
+
+*python manage.py runserver (to run the system on the server)
+python manage.py createsuperuser
+>> For adding new Class/any changes in Classes
+*python manage.py makemigrations (1st)
+*python manage.py migrate (2nd)
+
+
+local host address : http://127.0.0.1:8000
+
+
+admin
+101admin101.admin@socialbook.com
+
+
+
+<<<<< USERS >>>>>
+
+john
+101john101.john@g.com
+
+john1
+101john1101.john1@g.com
+
+Sabrina Mostafa
+sabrina1.sabrinamostafa@gmail.com
+
+sabrina
+sabrina.sabrina@gmail.com
+
