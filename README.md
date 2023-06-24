@@ -1,12 +1,34 @@
 # Social Media App
 
+## About this app :
+   This is a GUI based system. It is built with Python Django.</br>
+   Here, the chatting process was made real-time with Javascript(ajax).
+   No Django channels or Web Socket is used.
+   </br> In this system,
+</br>
+
+    ADMIN can -
+          CONTROL the system.
+</br>
+
+    users can -
+            i) CREATE Account
+           ii) UPDATE Account Settings
+          iii) VIEW Profile
+           iv) UPLOAD Pics with Captions
+            v) LIKE or UNLIKE Pics
+           vi) DOWNLOAD Images
+          vii) FOLLOW or UNFOLLOW Users
+         viii) Send "REAL-Time" MESSAGES
+           ix) SEARCH Users
+
+
 ## To run the PROJECT :
 
       i) Simply download the zip file
      ii) Open the Project Folder in your IDE
     iii) Run any of the PYTHON codes
          with command -> 
-                     
                         python manage.py runserver
 
 
