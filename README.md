@@ -1,3 +1,6 @@
+# "Social Media Application"
+
+
 ## About this app :
    This is a GUI based system. It is built with Python Django.</br>
    Here, the chatting process was made real-time with Javascript(ajax).
