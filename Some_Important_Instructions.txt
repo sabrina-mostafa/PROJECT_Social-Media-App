@@ -11,6 +11,16 @@ python manage.py createsuperuser
 
 
 local host address : http://127.0.0.1:8000
+>>/admin
+>>/#
+>>/signup
+>>/signin
+>>/logout
+>>/settings
+>>Upload Pics
+>>PostFeed
+>>Like/Unlike Post
+>>/profile/(username)
 
 
 admin
