@@ -1,7 +1,18 @@
 # "Social Media Application"
 
+<br/>
 
-## About this app :
+## Live Preview:
+https://sabrinamostafa.pythonanywhere.com/
+
+      you'll need to log in at least once every three months and click the "Run until 3 months from today" button
+      to prevent the site from being disabled.
+### Renewing-Link:
+   https://www.pythonanywhere.com/user/SabrinaMostafa/webapps/#tab_id_sabrinamostafa_pythonanywhere_com
+
+<br/>
+
+## About this App :
    This is a GUI based system. It is built with Python Django.</br>
    Here, the chatting process was made real-time with Javascript(ajax).
    No Django channels or Web Socket is used.
