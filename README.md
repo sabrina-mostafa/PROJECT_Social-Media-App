@@ -8,7 +8,9 @@ https://sabrinamostafa.pythonanywhere.com/
       you'll need to log in at least once every three months and click the "Run until 3 months from today" button
       to prevent the site from being disabled.
 ### Renewing-Link:
-   https://www.pythonanywhere.com/user/SabrinaMostafa/webapps/#tab_id_sabrinamostafa_pythonanywhere_com
+https://www.pythonanywhere.com/user/SabrinaMostafa/webapps/#tab_id_sabrinamostafa_pythonanywhere_com
+### Deploy a Django Project to PythonAnywhere
+https://www.youtube.com/watch?v=9BEKT0mEAso&list=WL&index=9
 
 <br/>
 
